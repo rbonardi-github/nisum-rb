@@ -1,0 +1,16 @@
+{
+  "name": "Ruben Bonardi - Admin",
+  "username": "arbonardi",
+  "email": "ruben.bonardi@gmail.com.cl",
+  "password": "arbonardi",
+  "phones": [
+    {
+      "numberPhone": "+541130698383",
+      "cityCode": "BUE",
+      "countryCode": "AR"
+    }
+  ],
+  "appUserRoles": [
+    "ROLE_ADMIN"
+  ]
+}

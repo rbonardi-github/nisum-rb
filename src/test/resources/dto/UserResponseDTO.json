@@ -1,0 +1,22 @@
+{
+  "id": 1,
+  "uuid": "27623a4f-9aa9-4d8d-a294-ae7416527c02",
+  "name": "Ruben Bonardi - Admin",
+  "username": "arbonardi",
+  "email": "ruben.bonardi@gmail.com.cl",
+  "isActive": true,
+  "createdDate": "2023-10-15",
+  "modifyDate": "2023-10-15",
+  "lastLogin": "2023-10-15",
+  "phones": [
+    {
+      "numberPhone": "+541130698383",
+      "cityCode": "BUE",
+      "countryCode": "AR"
+    }
+  ],
+  "appUserRoles": [
+    "ROLE_ADMIN"
+  ],
+  "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhcmJvbmFyZGkiLCJhdXRoIjpbeyJhdXRob3JpdHkiOiJST0xFX0FETUlOIn1dLCJpYXQiOjE2OTczODQ1ODcsImV4cCI6MTY5NzM4NDg4N30.buxxyZDNY-R6JqJSKY3nup8D-QIm5fLNnhHzxYHw-r4"
+}
