@@ -1,0 +1,18 @@
+{
+  "jurisdictions": [
+    {
+      "id": 0,
+      "jurisdictionCode": "string",
+      "numLevel": "string",
+      "names": [
+        {
+          "langCode": "string",
+          "name": "string"
+        }
+      ]
+    }
+  ],
+  "currentPage": 0,
+  "size": 0,
+  "totalPages": 0
+}

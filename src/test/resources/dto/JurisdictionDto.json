@@ -1,0 +1,15 @@
+{
+  "countryCode": "string",
+  "levels": [
+    {
+      "levelParent": 0,
+      "numLevel": "string",
+      "names": [
+        {
+          "langCode": "string",
+          "name": "string"
+        }
+      ]
+    }
+  ]
+}

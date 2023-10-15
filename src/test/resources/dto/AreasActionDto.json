@@ -1,0 +1,35 @@
+{
+  "id": 1,
+  "idOfficeBranchRolSubRol": 1,
+  "startDate": "2022-01-15",
+  "endDate": "2022-01-15",
+  "typeActionArea": "RATIO",
+  "actuationRatio": {
+    "latitude": 0,
+    "longitude": 0,
+    "actuationRatio": 0
+  },
+ "geographicalArea": {
+    "geographicalAreasDetail": [
+      {
+        "code": "string",
+        "name": "string",
+        "level": "LEVEL_1"
+      }
+    ],
+    "postalCode1": "string",
+    "postalCode2": "string"
+  },
+ "jurisdiction": [
+    {
+      "id": 2,
+      "level": "2",
+      "value": "FEDJUSCF"
+    },
+    {
+      "id": 1,
+      "level": "1",
+      "value": "FEDJUSBB"
+    }
+  ]
+}
